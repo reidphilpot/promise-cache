@@ -1,0 +1,31 @@
+{
+  "name": "promise-cache",
+  "version": "0.0.0",
+  "description": "Simple Promise caching by url",
+  "main": "promise-cache.js",
+  "scripts": {
+    "test": "mocha -R spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reidphilpot/promise-cache.git"
+  },
+  "keywords": [
+    "promise",
+    "cache"
+  ],
+  "author": "Reid Philpot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reidphilpot/promise-cache/issues"
+  },
+  "homepage": "https://github.com/reidphilpot/promise-cache",
+  "devDependencies": {
+    "mem-cache": "git://github.com/reidphilpot/mem-cache.git",
+    "mocha": "^2.0.1",
+    "chai": "^1.10.0",
+    "amdefine": ">=0.1.0",
+    "requirejs": "^2.1.15",
+    "bluebird": "^2.3.11"
+  }
+}
