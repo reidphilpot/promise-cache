@@ -24,7 +24,6 @@
     "mem-cache": "git://github.com/reidphilpot/mem-cache.git",
     "mocha": "^2.0.1",
     "chai": "^1.10.0",
-    "amdefine": ">=0.1.0",
     "requirejs": "^2.1.15",
     "bluebird": "^2.3.11"
   }
